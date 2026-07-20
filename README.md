@@ -1,4 +1,14 @@
-# 🏡 House Price Prediction using Machine Learning
+# 🏡 House Price Prediction
+
+## 👩‍🎓 Student Details
+
+**Name:** SHOBANA BALUSAMY
+
+**Registration Number:** 23MID0212
+
+**Course:** MDI3003 – Advanced Predictive Analytics
+
+---
 
 ## 📌 Overview
 
@@ -8,16 +18,6 @@ This project demonstrates **House Price Prediction** using multiple Machine Lear
 - Ames Housing Dataset
 
 The objective is to compare different regression algorithms and identify the best-performing model for predicting house prices.
-
----
-
-## 👩‍🎓 Student Details
-
-**Name:** SHOBANA BALUSAMY
-
-**Registration Number:** 23MID0212
-
-**Course:** MDI3003 – Advanced Predictive Analytics
 
 ---
 
